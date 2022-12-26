@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Asyedabdulrahman
 - 👀 I’m interested in blockchain technology
-- 🌱 I’m currently learning blockchain technology
+- 🌱 I’m currently learning blockchain technology and full stack developer
 - 📫 kindly reach me on asyedabdulrahman3@gmail.com
 
 <!---
